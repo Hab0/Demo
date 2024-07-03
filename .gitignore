@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.db
+
+node_modules/
+dist/
+.angular/
+
+.idea/
+.vscode/
